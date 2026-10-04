@@ -39,7 +39,6 @@ apis:
   - name: Open Government, Romania
     description: "Romania Government Open Data"
     humanURL: http://data.gov.ro/
-    baseURL: http://data.gov.ro/
     tags:
       - Government
     properties:
